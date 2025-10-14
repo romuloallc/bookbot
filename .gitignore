@@ -1,2 +1,4 @@
 /books
 *.bkp
+__pycache__
+*.swp
